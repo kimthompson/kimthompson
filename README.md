@@ -1,8 +1,8 @@
 ![Hello there!](https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-<img src="https://camo.githubusercontent.com/35a8275dddde1ef76d4237e01f43e5745ccf4e8a53ee880b6b2b2db93ce8f44f/68747470733a2f2f626c6f622e6361742f656d6f6a692f637573746f6d2f626c6f62636174732f61626c6f626361746e656f6e2e706e67" alt="Blobcat Neon" width="22" height="22"> I am Kim Thompson, and this is where I keep my ~~prequel memes~~ code.
-
 [![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/kimthompson) [![discord](https://img.shields.io/badge/Discord-5865f2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/KimicalBurn#6969) [![linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kimberlyannthompson) [![resume](https://img.shields.io/badge/Resume-8a1750?style=flat&logo=ReadMe&logoColor=white)](https://kimthompson.me/assets/resume.pdf) [![email](https://img.shields.io/badge/Email-8b89cc?style=flat&logo=ProtonMail&logoColor=white)](mailto:kim.thompson.dev@proton.me)
+
+<img src="https://camo.githubusercontent.com/35a8275dddde1ef76d4237e01f43e5745ccf4e8a53ee880b6b2b2db93ce8f44f/68747470733a2f2f626c6f622e6361742f656d6f6a692f637573746f6d2f626c6f62636174732f61626c6f626361746e656f6e2e706e67" alt="Blobcat Neon" width="22" height="22"> I am Kim Thompson, and this is where I keep my ~~prequel memes~~ code.
 
 - <img src="https://blob.cat/emoji/custom/blobcats/ablobcatbongokeyboard.gif" alt="Blobcat Code" width="24" height="24">  I'm currently working at **Daugherty Business Solutions** as a **Software Engineer**, specializing in mobile and frontend web development.
 - <img src="https://blob.cat/emoji/custom/blobcats/blobcatheartbisexual.png" alt="Blobcat Bisexual" width="24" height="24">  Pronouns: she/her/hers
