@@ -1,5 +1,6 @@
-### Hi there 👋
+![Hello there!](https://media4.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
+### I am Kim Thompson, and this is where I keep my ~~prequel memes~~ code. 
 <!--
 **kimthompson/kimthompson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
