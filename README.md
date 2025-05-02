@@ -11,7 +11,7 @@
 <img alt="Blobcat Rising Box" src="https://emojis.slackmojis.com/emojis/images/1643516753/28016/meow_box-scroll-up.gif?1643516753" width="24" height="24">  My main physical activity is strength training, and I have started competing in Strongwoman competitions. My current program is [this bastardization](https://docs.google.com/spreadsheets/d/1Ek30VeNl4PoyRTxpVS981-0_NIe9aZK-45DxZob51RU/edit?usp=sharing) of the Russian Strength Program.<br/>
 <img alt="Blobcat Coffee" src="https://blob.cat/emoji/custom/blobcats/ablobcatuwucoffee.gif" width="24" height="24">  My current side project is rebuilding my personal website and portfolio. Again.<br/>
 <img alt="Blobcat Smartypants" src="https://blob.cat/emoji/custom/blobcats/blobcatnerd.png" width="24" height="24">  I have bachelor's degrees in **Computer Science** and **Journalism** from the University of Minnesota<br/>
-<img alt="Blobcat Gamer" src="https://blob.cat/emoji/custom/blobcats/blobcatgamer2.png" width="24" height="24">  I'm currently playing ***Like a Dragon: A Pirate Yakuza in Hawaii***, ***Monster Hunter Wilds***, and ***The Hundred Line: Last Defence Academy***<br/>
+<img alt="Blobcat Gamer" src="https://blob.cat/emoji/custom/blobcats/blobcatgamer2.png" width="24" height="24">  I'm currently playing ***Like a Dragon: A Pirate Yakuza in Hawaii***, ***Monster Hunter Wilds***, and ***The Hundred Line: Last Defense Academy***<br/>
 <img alt="Blobcat Trash" src="https://blob.cat/emoji/custom/blobcats/ablobcatgooglytrash.png" width="24" height="24">  I'm [Yomi Hagane](https://na.finalfantasyxiv.com/lodestone/character/11739910/) on Malboro, but I'm taking a bit of a break<br/>
 
 <!--
