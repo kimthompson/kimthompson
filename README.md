@@ -2,7 +2,8 @@
 
 [![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/kimthompson) [![discord](https://img.shields.io/badge/Discord-5865f2?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/KimicalBurn#6969) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/kimfreechack) [![email](https://img.shields.io/badge/Email-8b89cc?style=flat&logo=ProtonMail&logoColor=white)](mailto:kim.freechack@proton.me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kimicalburn)
 
-### <img src="https://emojis.slackmojis.com/emojis/images/1643516752/28005/meow_neon.png?1643516752" alt="Blobcat Neon" width="36" height="36"> I'm Kim Freechack, and this is where I keep my ~~prequel memes~~ code <img src="https://emojis.slackmojis.com/emojis/images/1643516752/28005/meow_neon.png?1643516752" alt="Blobcat Neon" width="36" height="36">
+### <img src="https://emojis.slackmojis.com/emojis/images/1643516752/28005/meow_neon.png?1643516752" alt="Blobcat Neon" width="36" height="36"> I'm Kim Freechack, and this is where I used to keep my ~~prequel memes~~ code <img src="https://emojis.slackmojis.com/emojis/images/1643516752/28005/meow_neon.png?1643516752" alt="Blobcat Neon" width="36" height="36">
+I'm moving to [Codeberg](https://codeberg.org/kimfreechack), so expect my work to slowly vanish from this place and no new work to end up here.
 
 <img src="https://blob.cat/emoji/custom/blobcats/ablobcatbongokeyboard.gif" alt="Blobcat Code" width="24" height="24">  I'm currently working at **Anderson Trucking Services** as a **Software Engineer**, specializing in mobile and frontend web development<br/>
 <img src="https://blob.cat/emoji/custom/blobcats/blobcatheartbisexual.png" alt="Blobcat Bisexual" width="24" height="24">  My pronouns are **she/her/hers**<br/>
